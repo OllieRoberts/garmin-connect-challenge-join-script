@@ -1,0 +1,1 @@
+# garmin-connect-challenge-join-script
